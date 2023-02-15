@@ -9,7 +9,7 @@
 
 
 - 🌱 I’m currently learning **java**
-
+-  🎓 I’m currently learning at *IJSE(Institute of Software Engineering)*
 - 📫 How to reach me **sewmisithara23520@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
