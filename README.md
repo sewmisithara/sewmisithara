@@ -26,7 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sewmi-sithara-9a9212248" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sewmi-sithara-9a9212248" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21202546" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21202546" height="30" width="40" /></a>
+
 <a href="https://www.hackerrank.com/@sewmisithara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sewmisithara" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100087739030088&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100087739030088&mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/instergum.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instergum.com/" height="30" width="40" /></a>
