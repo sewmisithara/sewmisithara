@@ -1,8 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is sewmi sithara
-=====================================================================================================================================
+## 👋 Hi there!
+# I'm sewmi sithara 
 
-UI/UX Designer
---------------
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;UI/UX+Designer)](https://git.io/typing-svg)
+
+"I am currently immersed in the study of UI/UX design and development, exploring the intricacies of creating seamless user experiences and translating creative ideas into functional software."
+
+##
 
 * 🌍  I'm based in Srilanka
 * 🖥️  See my portfolio at [My Website](http://127.0.0.1:5504/index.html)
